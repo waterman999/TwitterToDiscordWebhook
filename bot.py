@@ -6,15 +6,15 @@ import requests
 import time
 from discord_webhook import DiscordWebhook
 
-url1 = 'https://discord.com/api/webhooks/825848374364078131/xR0BMvCXrGX3SddqwTvjSiN-DNNpkmJIyosTPg1n17SaxHzvILhTC8ge7p4rlQjxlcDm'
-url2 = 'https://discord.com/api/webhooks/843031560390574080/UETv33YPfIVJZB0uRDULO2mbA1tlqAh3-KbBYFg03cOYRzsGOm0IthlbdSNs13xpg4s0'
-url3 = 'https://discord.com/api/webhooks/843031926663151617/NCsyVo10P7SxWumjqyVfBXEvKVfhZOSsinNPaTFtVdTVtUiz2K7e1tKyAC0TMCuLBtA4'
+url1 = 'insert here'
+url2 = 'insert here'
+url3 = 'insert here'
 
-Token = '2fFgFg9zjWBYYTeGmBBiqix70'
-consumer_key = 'xY8AC4SNbF6hmN5BWXA3OkD3Q'
-consumer_secret = 'QdCmGAuPTRO1RFs1jeQDYIxUrJQagAD1kp7gpR4ns9Qwx9bbNi'
-access_token = '1390990681758343168-KPPfyDo5H9PmMG4RIhqHqy3UTCcFWL'
-access_token_secret = 'qbWksk80sjrJTKHGuwPKzTEmr84zvkZnJgCmDKIBsgw0E'
+Token = 'insert here'
+consumer_key = 'insert here'
+consumer_secret = 'insert here'
+access_token = 'insert here'
+access_token_secret = 'insert here'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
